@@ -1,0 +1,34 @@
+body, html, .container-fluid{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+/*-------------------------------style HEADER----------------------------------*/
+header .container-fluid{
+	background-color: #ff1d25;
+
+}
+header #imgHeader{
+	height: 100vh;
+	background-image: url('../img/images/maquette.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+header nav{	
+	height: 11.25%;
+}
+header ul li a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+/* -----------------------debug----------------------------*/
+#barre{
+}
+
+/*-------------------------------fin de style HEADER----------------------------------*/
